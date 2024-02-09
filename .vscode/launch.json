@@ -19,7 +19,7 @@
                     "kind": "bin"
                 }
             },
-            "args": ["cool"],
+            "args": ["cool", "cum", "bust", "nut"],
             "cwd": "${workspaceFolder}"
         },
         {
